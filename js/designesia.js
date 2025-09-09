@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * © Copyright 2024 - Solaria by Designesia
+  * © Copyright 2024 - 2025 - New Solar Energy. All Rights Reserved.
   * --------------------------------------------------*/
 (function($) {
 	'use strict';
